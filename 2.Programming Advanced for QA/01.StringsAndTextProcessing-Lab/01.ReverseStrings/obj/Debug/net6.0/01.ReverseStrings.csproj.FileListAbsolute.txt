@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\01.StringsAndTextProcessing-Lab\01.ReverseStrings\bin\Debug\net6.0\01.ReverseStrings.exe
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\01.StringsAndTextProcessing-Lab\01.ReverseStrings\bin\Debug\net6.0\01.ReverseStrings.deps.json
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\01.StringsAndTextProcessing-Lab\01.ReverseStrings\bin\Debug\net6.0\01.ReverseStrings.runtimeconfig.json
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\01.StringsAndTextProcessing-Lab\01.ReverseStrings\bin\Debug\net6.0\01.ReverseStrings.dll
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\01.StringsAndTextProcessing-Lab\01.ReverseStrings\bin\Debug\net6.0\01.ReverseStrings.pdb
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\01.StringsAndTextProcessing-Lab\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\01.StringsAndTextProcessing-Lab\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\01.StringsAndTextProcessing-Lab\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.AssemblyInfo.cs
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\01.StringsAndTextProcessing-Lab\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\01.StringsAndTextProcessing-Lab\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.dll
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\01.StringsAndTextProcessing-Lab\01.ReverseStrings\obj\Debug\net6.0\refint\01.ReverseStrings.dll
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\01.StringsAndTextProcessing-Lab\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.pdb
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\01.StringsAndTextProcessing-Lab\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.genruntimeconfig.cache
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\01.StringsAndTextProcessing-Lab\01.ReverseStrings\obj\Debug\net6.0\ref\01.ReverseStrings.dll

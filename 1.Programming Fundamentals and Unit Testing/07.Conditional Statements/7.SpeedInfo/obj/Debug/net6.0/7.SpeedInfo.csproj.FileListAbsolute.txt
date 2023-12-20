@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\7.SpeedInfo\bin\Debug\net6.0\7.SpeedInfo.exe
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\7.SpeedInfo\bin\Debug\net6.0\7.SpeedInfo.deps.json
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\7.SpeedInfo\bin\Debug\net6.0\7.SpeedInfo.runtimeconfig.json
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\7.SpeedInfo\bin\Debug\net6.0\7.SpeedInfo.dll
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\7.SpeedInfo\bin\Debug\net6.0\7.SpeedInfo.pdb
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\7.SpeedInfo\obj\Debug\net6.0\7.SpeedInfo.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\7.SpeedInfo\obj\Debug\net6.0\7.SpeedInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\7.SpeedInfo\obj\Debug\net6.0\7.SpeedInfo.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\7.SpeedInfo\obj\Debug\net6.0\7.SpeedInfo.AssemblyInfo.cs
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\7.SpeedInfo\obj\Debug\net6.0\7.SpeedInfo.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\7.SpeedInfo\obj\Debug\net6.0\7.SpeedInfo.dll
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\7.SpeedInfo\obj\Debug\net6.0\refint\7.SpeedInfo.dll
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\7.SpeedInfo\obj\Debug\net6.0\7.SpeedInfo.pdb
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\7.SpeedInfo\obj\Debug\net6.0\7.SpeedInfo.genruntimeconfig.cache
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\7.SpeedInfo\obj\Debug\net6.0\ref\7.SpeedInfo.dll

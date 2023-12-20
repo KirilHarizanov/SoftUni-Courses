@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\04.DictionariesLambdaAndLINQ-Lab\02.OddOccurrences\bin\Debug\net6.0\02.OddOccurrences.exe
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\04.DictionariesLambdaAndLINQ-Lab\02.OddOccurrences\bin\Debug\net6.0\02.OddOccurrences.deps.json
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\04.DictionariesLambdaAndLINQ-Lab\02.OddOccurrences\bin\Debug\net6.0\02.OddOccurrences.runtimeconfig.json
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\04.DictionariesLambdaAndLINQ-Lab\02.OddOccurrences\bin\Debug\net6.0\02.OddOccurrences.dll
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\04.DictionariesLambdaAndLINQ-Lab\02.OddOccurrences\bin\Debug\net6.0\02.OddOccurrences.pdb
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\04.DictionariesLambdaAndLINQ-Lab\02.OddOccurrences\obj\Debug\net6.0\02.OddOccurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\04.DictionariesLambdaAndLINQ-Lab\02.OddOccurrences\obj\Debug\net6.0\02.OddOccurrences.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\04.DictionariesLambdaAndLINQ-Lab\02.OddOccurrences\obj\Debug\net6.0\02.OddOccurrences.AssemblyInfo.cs
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\04.DictionariesLambdaAndLINQ-Lab\02.OddOccurrences\obj\Debug\net6.0\02.OddOccurrences.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\04.DictionariesLambdaAndLINQ-Lab\02.OddOccurrences\obj\Debug\net6.0\02.OddOccurrences.dll
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\04.DictionariesLambdaAndLINQ-Lab\02.OddOccurrences\obj\Debug\net6.0\refint\02.OddOccurrences.dll
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\04.DictionariesLambdaAndLINQ-Lab\02.OddOccurrences\obj\Debug\net6.0\02.OddOccurrences.pdb
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\04.DictionariesLambdaAndLINQ-Lab\02.OddOccurrences\obj\Debug\net6.0\02.OddOccurrences.genruntimeconfig.cache
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\04.DictionariesLambdaAndLINQ-Lab\02.OddOccurrences\obj\Debug\net6.0\ref\02.OddOccurrences.dll

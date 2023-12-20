@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\3.Numbers1To9AsWords\bin\Debug\net6.0\3.Numbers1To9AsWords.exe
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\3.Numbers1To9AsWords\bin\Debug\net6.0\3.Numbers1To9AsWords.deps.json
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\3.Numbers1To9AsWords\bin\Debug\net6.0\3.Numbers1To9AsWords.runtimeconfig.json
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\3.Numbers1To9AsWords\bin\Debug\net6.0\3.Numbers1To9AsWords.dll
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\3.Numbers1To9AsWords\bin\Debug\net6.0\3.Numbers1To9AsWords.pdb
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\3.Numbers1To9AsWords\obj\Debug\net6.0\3.Numbers1To9AsWords.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\3.Numbers1To9AsWords\obj\Debug\net6.0\3.Numbers1To9AsWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\3.Numbers1To9AsWords\obj\Debug\net6.0\3.Numbers1To9AsWords.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\3.Numbers1To9AsWords\obj\Debug\net6.0\3.Numbers1To9AsWords.AssemblyInfo.cs
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\3.Numbers1To9AsWords\obj\Debug\net6.0\3.Numbers1To9AsWords.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\3.Numbers1To9AsWords\obj\Debug\net6.0\3.Numbers1To9AsWords.dll
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\3.Numbers1To9AsWords\obj\Debug\net6.0\refint\3.Numbers1To9AsWords.dll
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\3.Numbers1To9AsWords\obj\Debug\net6.0\3.Numbers1To9AsWords.pdb
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\3.Numbers1To9AsWords\obj\Debug\net6.0\3.Numbers1To9AsWords.genruntimeconfig.cache
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\3.Numbers1To9AsWords\obj\Debug\net6.0\ref\3.Numbers1To9AsWords.dll

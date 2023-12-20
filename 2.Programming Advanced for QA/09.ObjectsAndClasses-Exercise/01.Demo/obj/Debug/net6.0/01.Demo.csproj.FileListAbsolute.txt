@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\09.ObjectsAndClasses-Exercise\01.Demo\bin\Debug\net6.0\01.Demo.exe
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\09.ObjectsAndClasses-Exercise\01.Demo\bin\Debug\net6.0\01.Demo.deps.json
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\09.ObjectsAndClasses-Exercise\01.Demo\bin\Debug\net6.0\01.Demo.runtimeconfig.json
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\09.ObjectsAndClasses-Exercise\01.Demo\bin\Debug\net6.0\01.Demo.dll
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\09.ObjectsAndClasses-Exercise\01.Demo\bin\Debug\net6.0\01.Demo.pdb
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\09.ObjectsAndClasses-Exercise\01.Demo\obj\Debug\net6.0\01.Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\09.ObjectsAndClasses-Exercise\01.Demo\obj\Debug\net6.0\01.Demo.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\09.ObjectsAndClasses-Exercise\01.Demo\obj\Debug\net6.0\01.Demo.AssemblyInfo.cs
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\09.ObjectsAndClasses-Exercise\01.Demo\obj\Debug\net6.0\01.Demo.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\09.ObjectsAndClasses-Exercise\01.Demo\obj\Debug\net6.0\01.Demo.dll
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\09.ObjectsAndClasses-Exercise\01.Demo\obj\Debug\net6.0\refint\01.Demo.dll
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\09.ObjectsAndClasses-Exercise\01.Demo\obj\Debug\net6.0\01.Demo.pdb
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\09.ObjectsAndClasses-Exercise\01.Demo\obj\Debug\net6.0\01.Demo.genruntimeconfig.cache
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\09.ObjectsAndClasses-Exercise\01.Demo\obj\Debug\net6.0\ref\01.Demo.dll

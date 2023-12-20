@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\14.OOP-Principles-AbstractionAndPolymorphism-Lab\Shapes\bin\Debug\net6.0\Shapes.exe
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\14.OOP-Principles-AbstractionAndPolymorphism-Lab\Shapes\bin\Debug\net6.0\Shapes.deps.json
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\14.OOP-Principles-AbstractionAndPolymorphism-Lab\Shapes\bin\Debug\net6.0\Shapes.runtimeconfig.json
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\14.OOP-Principles-AbstractionAndPolymorphism-Lab\Shapes\bin\Debug\net6.0\Shapes.dll
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\14.OOP-Principles-AbstractionAndPolymorphism-Lab\Shapes\bin\Debug\net6.0\Shapes.pdb
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\14.OOP-Principles-AbstractionAndPolymorphism-Lab\Shapes\obj\Debug\net6.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\14.OOP-Principles-AbstractionAndPolymorphism-Lab\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\14.OOP-Principles-AbstractionAndPolymorphism-Lab\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfo.cs
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\14.OOP-Principles-AbstractionAndPolymorphism-Lab\Shapes\obj\Debug\net6.0\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\14.OOP-Principles-AbstractionAndPolymorphism-Lab\Shapes\obj\Debug\net6.0\Shapes.dll
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\14.OOP-Principles-AbstractionAndPolymorphism-Lab\Shapes\obj\Debug\net6.0\refint\Shapes.dll
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\14.OOP-Principles-AbstractionAndPolymorphism-Lab\Shapes\obj\Debug\net6.0\Shapes.pdb
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\14.OOP-Principles-AbstractionAndPolymorphism-Lab\Shapes\obj\Debug\net6.0\Shapes.genruntimeconfig.cache
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\2.Programming Advanced for QA\14.OOP-Principles-AbstractionAndPolymorphism-Lab\Shapes\obj\Debug\net6.0\ref\Shapes.dll

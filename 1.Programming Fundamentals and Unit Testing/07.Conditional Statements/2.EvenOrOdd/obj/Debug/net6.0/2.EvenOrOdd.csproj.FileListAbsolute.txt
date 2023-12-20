@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\2.EvenOrOdd\obj\Debug\net6.0\2.EvenOrOdd.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\2.EvenOrOdd\obj\Debug\net6.0\2.EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\2.EvenOrOdd\obj\Debug\net6.0\2.EvenOrOdd.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\2.EvenOrOdd\obj\Debug\net6.0\2.EvenOrOdd.AssemblyInfo.cs
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\2.EvenOrOdd\obj\Debug\net6.0\2.EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\2.EvenOrOdd\bin\Debug\net6.0\2.EvenOrOdd.exe
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\2.EvenOrOdd\bin\Debug\net6.0\2.EvenOrOdd.deps.json
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\2.EvenOrOdd\bin\Debug\net6.0\2.EvenOrOdd.runtimeconfig.json
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\2.EvenOrOdd\bin\Debug\net6.0\2.EvenOrOdd.dll
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\2.EvenOrOdd\bin\Debug\net6.0\2.EvenOrOdd.pdb
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\2.EvenOrOdd\obj\Debug\net6.0\2.EvenOrOdd.dll
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\2.EvenOrOdd\obj\Debug\net6.0\refint\2.EvenOrOdd.dll
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\2.EvenOrOdd\obj\Debug\net6.0\2.EvenOrOdd.pdb
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\2.EvenOrOdd\obj\Debug\net6.0\2.EvenOrOdd.genruntimeconfig.cache
+C:\Users\User\OneDrive\Работен плот\QA\Programming for QA\07.Conditional Statements\2.EvenOrOdd\obj\Debug\net6.0\ref\2.EvenOrOdd.dll
