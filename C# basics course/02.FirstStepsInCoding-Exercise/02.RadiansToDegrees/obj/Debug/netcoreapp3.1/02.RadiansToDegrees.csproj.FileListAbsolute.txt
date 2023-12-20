@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Работен плот\C# Basics\02.FirstStepsInCoding-Exercise\02.RadiansToDegrees\bin\Debug\netcoreapp3.1\02.RadiansToDegrees.exe
+C:\Users\User\OneDrive\Работен плот\C# Basics\02.FirstStepsInCoding-Exercise\02.RadiansToDegrees\bin\Debug\netcoreapp3.1\02.RadiansToDegrees.deps.json
+C:\Users\User\OneDrive\Работен плот\C# Basics\02.FirstStepsInCoding-Exercise\02.RadiansToDegrees\bin\Debug\netcoreapp3.1\02.RadiansToDegrees.runtimeconfig.json
+C:\Users\User\OneDrive\Работен плот\C# Basics\02.FirstStepsInCoding-Exercise\02.RadiansToDegrees\bin\Debug\netcoreapp3.1\02.RadiansToDegrees.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Работен плот\C# Basics\02.FirstStepsInCoding-Exercise\02.RadiansToDegrees\bin\Debug\netcoreapp3.1\02.RadiansToDegrees.dll
+C:\Users\User\OneDrive\Работен плот\C# Basics\02.FirstStepsInCoding-Exercise\02.RadiansToDegrees\bin\Debug\netcoreapp3.1\02.RadiansToDegrees.pdb
+C:\Users\User\OneDrive\Работен плот\C# Basics\02.FirstStepsInCoding-Exercise\02.RadiansToDegrees\obj\Debug\netcoreapp3.1\02.RadiansToDegrees.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Работен плот\C# Basics\02.FirstStepsInCoding-Exercise\02.RadiansToDegrees\obj\Debug\netcoreapp3.1\02.RadiansToDegrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Работен плот\C# Basics\02.FirstStepsInCoding-Exercise\02.RadiansToDegrees\obj\Debug\netcoreapp3.1\02.RadiansToDegrees.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Работен плот\C# Basics\02.FirstStepsInCoding-Exercise\02.RadiansToDegrees\obj\Debug\netcoreapp3.1\02.RadiansToDegrees.AssemblyInfo.cs
+C:\Users\User\OneDrive\Работен плот\C# Basics\02.FirstStepsInCoding-Exercise\02.RadiansToDegrees\obj\Debug\netcoreapp3.1\02.RadiansToDegrees.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Работен плот\C# Basics\02.FirstStepsInCoding-Exercise\02.RadiansToDegrees\obj\Debug\netcoreapp3.1\02.RadiansToDegrees.dll
+C:\Users\User\OneDrive\Работен плот\C# Basics\02.FirstStepsInCoding-Exercise\02.RadiansToDegrees\obj\Debug\netcoreapp3.1\02.RadiansToDegrees.pdb
+C:\Users\User\OneDrive\Работен плот\C# Basics\02.FirstStepsInCoding-Exercise\02.RadiansToDegrees\obj\Debug\netcoreapp3.1\02.RadiansToDegrees.genruntimeconfig.cache

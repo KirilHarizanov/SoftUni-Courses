@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\06.MultiplyTable\bin\Debug\netcoreapp3.1\06.MultiplyTable.exe
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\06.MultiplyTable\bin\Debug\netcoreapp3.1\06.MultiplyTable.deps.json
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\06.MultiplyTable\bin\Debug\netcoreapp3.1\06.MultiplyTable.runtimeconfig.json
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\06.MultiplyTable\bin\Debug\netcoreapp3.1\06.MultiplyTable.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\06.MultiplyTable\bin\Debug\netcoreapp3.1\06.MultiplyTable.dll
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\06.MultiplyTable\bin\Debug\netcoreapp3.1\06.MultiplyTable.pdb
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\06.MultiplyTable\obj\Debug\netcoreapp3.1\06.MultiplyTable.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\06.MultiplyTable\obj\Debug\netcoreapp3.1\06.MultiplyTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\06.MultiplyTable\obj\Debug\netcoreapp3.1\06.MultiplyTable.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\06.MultiplyTable\obj\Debug\netcoreapp3.1\06.MultiplyTable.AssemblyInfo.cs
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\06.MultiplyTable\obj\Debug\netcoreapp3.1\06.MultiplyTable.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\06.MultiplyTable\obj\Debug\netcoreapp3.1\06.MultiplyTable.dll
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\06.MultiplyTable\obj\Debug\netcoreapp3.1\06.MultiplyTable.pdb
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\06.MultiplyTable\obj\Debug\netcoreapp3.1\06.MultiplyTable.genruntimeconfig.cache

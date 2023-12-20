@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Работен плот\C# Basics\07.ForLoop-Lab\01.NumbersFrom1To100\bin\Debug\netcoreapp3.1\01.NumbersFrom1To100.exe
+C:\Users\User\OneDrive\Работен плот\C# Basics\07.ForLoop-Lab\01.NumbersFrom1To100\bin\Debug\netcoreapp3.1\01.NumbersFrom1To100.deps.json
+C:\Users\User\OneDrive\Работен плот\C# Basics\07.ForLoop-Lab\01.NumbersFrom1To100\bin\Debug\netcoreapp3.1\01.NumbersFrom1To100.runtimeconfig.json
+C:\Users\User\OneDrive\Работен плот\C# Basics\07.ForLoop-Lab\01.NumbersFrom1To100\bin\Debug\netcoreapp3.1\01.NumbersFrom1To100.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Работен плот\C# Basics\07.ForLoop-Lab\01.NumbersFrom1To100\bin\Debug\netcoreapp3.1\01.NumbersFrom1To100.dll
+C:\Users\User\OneDrive\Работен плот\C# Basics\07.ForLoop-Lab\01.NumbersFrom1To100\bin\Debug\netcoreapp3.1\01.NumbersFrom1To100.pdb
+C:\Users\User\OneDrive\Работен плот\C# Basics\07.ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\netcoreapp3.1\01.NumbersFrom1To100.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Работен плот\C# Basics\07.ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\netcoreapp3.1\01.NumbersFrom1To100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Работен плот\C# Basics\07.ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\netcoreapp3.1\01.NumbersFrom1To100.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Работен плот\C# Basics\07.ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\netcoreapp3.1\01.NumbersFrom1To100.AssemblyInfo.cs
+C:\Users\User\OneDrive\Работен плот\C# Basics\07.ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\netcoreapp3.1\01.NumbersFrom1To100.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Работен плот\C# Basics\07.ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\netcoreapp3.1\01.NumbersFrom1To100.dll
+C:\Users\User\OneDrive\Работен плот\C# Basics\07.ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\netcoreapp3.1\01.NumbersFrom1To100.pdb
+C:\Users\User\OneDrive\Работен плот\C# Basics\07.ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\netcoreapp3.1\01.NumbersFrom1To100.genruntimeconfig.cache

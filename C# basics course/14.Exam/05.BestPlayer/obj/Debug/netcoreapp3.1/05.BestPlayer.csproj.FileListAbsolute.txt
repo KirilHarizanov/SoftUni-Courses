@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\05.BestPlayer\bin\Debug\netcoreapp3.1\05.BestPlayer.exe
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\05.BestPlayer\bin\Debug\netcoreapp3.1\05.BestPlayer.deps.json
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\05.BestPlayer\bin\Debug\netcoreapp3.1\05.BestPlayer.runtimeconfig.json
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\05.BestPlayer\bin\Debug\netcoreapp3.1\05.BestPlayer.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\05.BestPlayer\bin\Debug\netcoreapp3.1\05.BestPlayer.dll
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\05.BestPlayer\bin\Debug\netcoreapp3.1\05.BestPlayer.pdb
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\05.BestPlayer\obj\Debug\netcoreapp3.1\05.BestPlayer.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\05.BestPlayer\obj\Debug\netcoreapp3.1\05.BestPlayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\05.BestPlayer\obj\Debug\netcoreapp3.1\05.BestPlayer.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\05.BestPlayer\obj\Debug\netcoreapp3.1\05.BestPlayer.AssemblyInfo.cs
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\05.BestPlayer\obj\Debug\netcoreapp3.1\05.BestPlayer.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\05.BestPlayer\obj\Debug\netcoreapp3.1\05.BestPlayer.dll
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\05.BestPlayer\obj\Debug\netcoreapp3.1\05.BestPlayer.pdb
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\05.BestPlayer\obj\Debug\netcoreapp3.1\05.BestPlayer.genruntimeconfig.cache

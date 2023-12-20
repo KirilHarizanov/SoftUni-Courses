@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Работен плот\C# Basics\07.ForLoop-Lab\03.Numbers1ToNWithStep3\bin\Debug\netcoreapp3.1\03.Numbers1ToNWithStep3.exe
+C:\Users\User\OneDrive\Работен плот\C# Basics\07.ForLoop-Lab\03.Numbers1ToNWithStep3\bin\Debug\netcoreapp3.1\03.Numbers1ToNWithStep3.deps.json
+C:\Users\User\OneDrive\Работен плот\C# Basics\07.ForLoop-Lab\03.Numbers1ToNWithStep3\bin\Debug\netcoreapp3.1\03.Numbers1ToNWithStep3.runtimeconfig.json
+C:\Users\User\OneDrive\Работен плот\C# Basics\07.ForLoop-Lab\03.Numbers1ToNWithStep3\bin\Debug\netcoreapp3.1\03.Numbers1ToNWithStep3.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Работен плот\C# Basics\07.ForLoop-Lab\03.Numbers1ToNWithStep3\bin\Debug\netcoreapp3.1\03.Numbers1ToNWithStep3.dll
+C:\Users\User\OneDrive\Работен плот\C# Basics\07.ForLoop-Lab\03.Numbers1ToNWithStep3\bin\Debug\netcoreapp3.1\03.Numbers1ToNWithStep3.pdb
+C:\Users\User\OneDrive\Работен плот\C# Basics\07.ForLoop-Lab\03.Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\03.Numbers1ToNWithStep3.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Работен плот\C# Basics\07.ForLoop-Lab\03.Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\03.Numbers1ToNWithStep3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Работен плот\C# Basics\07.ForLoop-Lab\03.Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\03.Numbers1ToNWithStep3.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Работен плот\C# Basics\07.ForLoop-Lab\03.Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\03.Numbers1ToNWithStep3.AssemblyInfo.cs
+C:\Users\User\OneDrive\Работен плот\C# Basics\07.ForLoop-Lab\03.Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\03.Numbers1ToNWithStep3.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Работен плот\C# Basics\07.ForLoop-Lab\03.Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\03.Numbers1ToNWithStep3.dll
+C:\Users\User\OneDrive\Работен плот\C# Basics\07.ForLoop-Lab\03.Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\03.Numbers1ToNWithStep3.pdb
+C:\Users\User\OneDrive\Работен плот\C# Basics\07.ForLoop-Lab\03.Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\03.Numbers1ToNWithStep3.genruntimeconfig.cache

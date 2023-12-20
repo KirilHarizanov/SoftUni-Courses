@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Работен плот\C# Basics\05.ConditionalStatementsAdvanced-Lab\06.NumberInRange\bin\Debug\netcoreapp3.1\06.NumberInRange.exe
+C:\Users\User\OneDrive\Работен плот\C# Basics\05.ConditionalStatementsAdvanced-Lab\06.NumberInRange\bin\Debug\netcoreapp3.1\06.NumberInRange.deps.json
+C:\Users\User\OneDrive\Работен плот\C# Basics\05.ConditionalStatementsAdvanced-Lab\06.NumberInRange\bin\Debug\netcoreapp3.1\06.NumberInRange.runtimeconfig.json
+C:\Users\User\OneDrive\Работен плот\C# Basics\05.ConditionalStatementsAdvanced-Lab\06.NumberInRange\bin\Debug\netcoreapp3.1\06.NumberInRange.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Работен плот\C# Basics\05.ConditionalStatementsAdvanced-Lab\06.NumberInRange\bin\Debug\netcoreapp3.1\06.NumberInRange.dll
+C:\Users\User\OneDrive\Работен плот\C# Basics\05.ConditionalStatementsAdvanced-Lab\06.NumberInRange\bin\Debug\netcoreapp3.1\06.NumberInRange.pdb
+C:\Users\User\OneDrive\Работен плот\C# Basics\05.ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\netcoreapp3.1\06.NumberInRange.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Работен плот\C# Basics\05.ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\netcoreapp3.1\06.NumberInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Работен плот\C# Basics\05.ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\netcoreapp3.1\06.NumberInRange.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Работен плот\C# Basics\05.ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\netcoreapp3.1\06.NumberInRange.AssemblyInfo.cs
+C:\Users\User\OneDrive\Работен плот\C# Basics\05.ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\netcoreapp3.1\06.NumberInRange.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Работен плот\C# Basics\05.ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\netcoreapp3.1\06.NumberInRange.dll
+C:\Users\User\OneDrive\Работен плот\C# Basics\05.ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\netcoreapp3.1\06.NumberInRange.pdb
+C:\Users\User\OneDrive\Работен плот\C# Basics\05.ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\netcoreapp3.1\06.NumberInRange.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\03.CourierExpress\bin\Debug\netcoreapp3.1\03.CourierExpress.exe
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\03.CourierExpress\bin\Debug\netcoreapp3.1\03.CourierExpress.deps.json
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\03.CourierExpress\bin\Debug\netcoreapp3.1\03.CourierExpress.runtimeconfig.json
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\03.CourierExpress\bin\Debug\netcoreapp3.1\03.CourierExpress.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\03.CourierExpress\bin\Debug\netcoreapp3.1\03.CourierExpress.dll
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\03.CourierExpress\bin\Debug\netcoreapp3.1\03.CourierExpress.pdb
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\03.CourierExpress\obj\Debug\netcoreapp3.1\03.CourierExpress.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\03.CourierExpress\obj\Debug\netcoreapp3.1\03.CourierExpress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\03.CourierExpress\obj\Debug\netcoreapp3.1\03.CourierExpress.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\03.CourierExpress\obj\Debug\netcoreapp3.1\03.CourierExpress.AssemblyInfo.cs
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\03.CourierExpress\obj\Debug\netcoreapp3.1\03.CourierExpress.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\03.CourierExpress\obj\Debug\netcoreapp3.1\03.CourierExpress.dll
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\03.CourierExpress\obj\Debug\netcoreapp3.1\03.CourierExpress.pdb
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\03.CourierExpress\obj\Debug\netcoreapp3.1\03.CourierExpress.genruntimeconfig.cache

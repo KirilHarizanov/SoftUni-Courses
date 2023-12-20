@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Работен плот\C# Basics\04.ConditionalStatements-Exercise\03.Time+15Minutes\bin\Debug\netcoreapp3.1\03.Time+15Minutes.exe
+C:\Users\User\OneDrive\Работен плот\C# Basics\04.ConditionalStatements-Exercise\03.Time+15Minutes\bin\Debug\netcoreapp3.1\03.Time+15Minutes.deps.json
+C:\Users\User\OneDrive\Работен плот\C# Basics\04.ConditionalStatements-Exercise\03.Time+15Minutes\bin\Debug\netcoreapp3.1\03.Time+15Minutes.runtimeconfig.json
+C:\Users\User\OneDrive\Работен плот\C# Basics\04.ConditionalStatements-Exercise\03.Time+15Minutes\bin\Debug\netcoreapp3.1\03.Time+15Minutes.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Работен плот\C# Basics\04.ConditionalStatements-Exercise\03.Time+15Minutes\bin\Debug\netcoreapp3.1\03.Time+15Minutes.dll
+C:\Users\User\OneDrive\Работен плот\C# Basics\04.ConditionalStatements-Exercise\03.Time+15Minutes\bin\Debug\netcoreapp3.1\03.Time+15Minutes.pdb
+C:\Users\User\OneDrive\Работен плот\C# Basics\04.ConditionalStatements-Exercise\03.Time+15Minutes\obj\Debug\netcoreapp3.1\03.Time+15Minutes.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Работен плот\C# Basics\04.ConditionalStatements-Exercise\03.Time+15Minutes\obj\Debug\netcoreapp3.1\03.Time+15Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Работен плот\C# Basics\04.ConditionalStatements-Exercise\03.Time+15Minutes\obj\Debug\netcoreapp3.1\03.Time+15Minutes.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Работен плот\C# Basics\04.ConditionalStatements-Exercise\03.Time+15Minutes\obj\Debug\netcoreapp3.1\03.Time+15Minutes.AssemblyInfo.cs
+C:\Users\User\OneDrive\Работен плот\C# Basics\04.ConditionalStatements-Exercise\03.Time+15Minutes\obj\Debug\netcoreapp3.1\03.Time+15Minutes.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Работен плот\C# Basics\04.ConditionalStatements-Exercise\03.Time+15Minutes\obj\Debug\netcoreapp3.1\03.Time+15Minutes.dll
+C:\Users\User\OneDrive\Работен плот\C# Basics\04.ConditionalStatements-Exercise\03.Time+15Minutes\obj\Debug\netcoreapp3.1\03.Time+15Minutes.pdb
+C:\Users\User\OneDrive\Работен плот\C# Basics\04.ConditionalStatements-Exercise\03.Time+15Minutes\obj\Debug\netcoreapp3.1\03.Time+15Minutes.genruntimeconfig.cache

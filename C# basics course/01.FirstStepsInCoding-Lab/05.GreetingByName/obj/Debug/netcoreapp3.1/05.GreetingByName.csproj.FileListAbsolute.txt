@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Работен плот\C# Basics\01.FirstStepsInCoding-Lab\05.GreetingByName\bin\Debug\netcoreapp3.1\05.GreetingByName.exe
+C:\Users\User\OneDrive\Работен плот\C# Basics\01.FirstStepsInCoding-Lab\05.GreetingByName\bin\Debug\netcoreapp3.1\05.GreetingByName.deps.json
+C:\Users\User\OneDrive\Работен плот\C# Basics\01.FirstStepsInCoding-Lab\05.GreetingByName\bin\Debug\netcoreapp3.1\05.GreetingByName.runtimeconfig.json
+C:\Users\User\OneDrive\Работен плот\C# Basics\01.FirstStepsInCoding-Lab\05.GreetingByName\bin\Debug\netcoreapp3.1\05.GreetingByName.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Работен плот\C# Basics\01.FirstStepsInCoding-Lab\05.GreetingByName\bin\Debug\netcoreapp3.1\05.GreetingByName.dll
+C:\Users\User\OneDrive\Работен плот\C# Basics\01.FirstStepsInCoding-Lab\05.GreetingByName\bin\Debug\netcoreapp3.1\05.GreetingByName.pdb
+C:\Users\User\OneDrive\Работен плот\C# Basics\01.FirstStepsInCoding-Lab\05.GreetingByName\obj\Debug\netcoreapp3.1\05.GreetingByName.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Работен плот\C# Basics\01.FirstStepsInCoding-Lab\05.GreetingByName\obj\Debug\netcoreapp3.1\05.GreetingByName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Работен плот\C# Basics\01.FirstStepsInCoding-Lab\05.GreetingByName\obj\Debug\netcoreapp3.1\05.GreetingByName.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Работен плот\C# Basics\01.FirstStepsInCoding-Lab\05.GreetingByName\obj\Debug\netcoreapp3.1\05.GreetingByName.AssemblyInfo.cs
+C:\Users\User\OneDrive\Работен плот\C# Basics\01.FirstStepsInCoding-Lab\05.GreetingByName\obj\Debug\netcoreapp3.1\05.GreetingByName.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Работен плот\C# Basics\01.FirstStepsInCoding-Lab\05.GreetingByName\obj\Debug\netcoreapp3.1\05.GreetingByName.dll
+C:\Users\User\OneDrive\Работен плот\C# Basics\01.FirstStepsInCoding-Lab\05.GreetingByName\obj\Debug\netcoreapp3.1\05.GreetingByName.pdb
+C:\Users\User\OneDrive\Работен плот\C# Basics\01.FirstStepsInCoding-Lab\05.GreetingByName\obj\Debug\netcoreapp3.1\05.GreetingByName.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Работен плот\C# Basics\03.ConditionalStatements-Lab\07.AreaOfFigures\bin\Debug\netcoreapp3.1\07.AreaOfFigures.exe
+C:\Users\User\OneDrive\Работен плот\C# Basics\03.ConditionalStatements-Lab\07.AreaOfFigures\bin\Debug\netcoreapp3.1\07.AreaOfFigures.deps.json
+C:\Users\User\OneDrive\Работен плот\C# Basics\03.ConditionalStatements-Lab\07.AreaOfFigures\bin\Debug\netcoreapp3.1\07.AreaOfFigures.runtimeconfig.json
+C:\Users\User\OneDrive\Работен плот\C# Basics\03.ConditionalStatements-Lab\07.AreaOfFigures\bin\Debug\netcoreapp3.1\07.AreaOfFigures.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Работен плот\C# Basics\03.ConditionalStatements-Lab\07.AreaOfFigures\bin\Debug\netcoreapp3.1\07.AreaOfFigures.dll
+C:\Users\User\OneDrive\Работен плот\C# Basics\03.ConditionalStatements-Lab\07.AreaOfFigures\bin\Debug\netcoreapp3.1\07.AreaOfFigures.pdb
+C:\Users\User\OneDrive\Работен плот\C# Basics\03.ConditionalStatements-Lab\07.AreaOfFigures\obj\Debug\netcoreapp3.1\07.AreaOfFigures.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Работен плот\C# Basics\03.ConditionalStatements-Lab\07.AreaOfFigures\obj\Debug\netcoreapp3.1\07.AreaOfFigures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Работен плот\C# Basics\03.ConditionalStatements-Lab\07.AreaOfFigures\obj\Debug\netcoreapp3.1\07.AreaOfFigures.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Работен плот\C# Basics\03.ConditionalStatements-Lab\07.AreaOfFigures\obj\Debug\netcoreapp3.1\07.AreaOfFigures.AssemblyInfo.cs
+C:\Users\User\OneDrive\Работен плот\C# Basics\03.ConditionalStatements-Lab\07.AreaOfFigures\obj\Debug\netcoreapp3.1\07.AreaOfFigures.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Работен плот\C# Basics\03.ConditionalStatements-Lab\07.AreaOfFigures\obj\Debug\netcoreapp3.1\07.AreaOfFigures.dll
+C:\Users\User\OneDrive\Работен плот\C# Basics\03.ConditionalStatements-Lab\07.AreaOfFigures\obj\Debug\netcoreapp3.1\07.AreaOfFigures.pdb
+C:\Users\User\OneDrive\Работен плот\C# Basics\03.ConditionalStatements-Lab\07.AreaOfFigures\obj\Debug\netcoreapp3.1\07.AreaOfFigures.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Работен плот\C# Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\netcoreapp3.1\03.AnimalType.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Работен плот\C# Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\netcoreapp3.1\03.AnimalType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Работен плот\C# Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\netcoreapp3.1\03.AnimalType.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Работен плот\C# Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\netcoreapp3.1\03.AnimalType.AssemblyInfo.cs
+C:\Users\User\OneDrive\Работен плот\C# Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\netcoreapp3.1\03.AnimalType.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Работен плот\C# Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalType\bin\Debug\netcoreapp3.1\03.AnimalType.exe
+C:\Users\User\OneDrive\Работен плот\C# Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalType\bin\Debug\netcoreapp3.1\03.AnimalType.deps.json
+C:\Users\User\OneDrive\Работен плот\C# Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalType\bin\Debug\netcoreapp3.1\03.AnimalType.runtimeconfig.json
+C:\Users\User\OneDrive\Работен плот\C# Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalType\bin\Debug\netcoreapp3.1\03.AnimalType.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Работен плот\C# Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalType\bin\Debug\netcoreapp3.1\03.AnimalType.dll
+C:\Users\User\OneDrive\Работен плот\C# Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalType\bin\Debug\netcoreapp3.1\03.AnimalType.pdb
+C:\Users\User\OneDrive\Работен плот\C# Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\netcoreapp3.1\03.AnimalType.dll
+C:\Users\User\OneDrive\Работен плот\C# Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\netcoreapp3.1\03.AnimalType.pdb
+C:\Users\User\OneDrive\Работен плот\C# Basics\05.ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\netcoreapp3.1\03.AnimalType.genruntimeconfig.cache

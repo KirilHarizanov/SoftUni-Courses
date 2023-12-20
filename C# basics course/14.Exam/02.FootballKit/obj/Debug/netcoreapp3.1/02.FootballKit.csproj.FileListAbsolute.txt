@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\02.FootballKit\bin\Debug\netcoreapp3.1\02.FootballKit.exe
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\02.FootballKit\bin\Debug\netcoreapp3.1\02.FootballKit.deps.json
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\02.FootballKit\bin\Debug\netcoreapp3.1\02.FootballKit.runtimeconfig.json
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\02.FootballKit\bin\Debug\netcoreapp3.1\02.FootballKit.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\02.FootballKit\bin\Debug\netcoreapp3.1\02.FootballKit.dll
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\02.FootballKit\bin\Debug\netcoreapp3.1\02.FootballKit.pdb
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\02.FootballKit\obj\Debug\netcoreapp3.1\02.FootballKit.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\02.FootballKit\obj\Debug\netcoreapp3.1\02.FootballKit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\02.FootballKit\obj\Debug\netcoreapp3.1\02.FootballKit.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\02.FootballKit\obj\Debug\netcoreapp3.1\02.FootballKit.AssemblyInfo.cs
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\02.FootballKit\obj\Debug\netcoreapp3.1\02.FootballKit.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\02.FootballKit\obj\Debug\netcoreapp3.1\02.FootballKit.dll
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\02.FootballKit\obj\Debug\netcoreapp3.1\02.FootballKit.pdb
+C:\Users\User\OneDrive\Работен плот\C# Basics\14.Exam\02.FootballKit\obj\Debug\netcoreapp3.1\02.FootballKit.genruntimeconfig.cache
